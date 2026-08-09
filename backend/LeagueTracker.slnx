@@ -1,0 +1,12 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/LeagueTracker.Api/LeagueTracker.Api.csproj" />
+    <Project Path="src/LeagueTracker.Application/LeagueTracker.Application.csproj" />
+    <Project Path="src/LeagueTracker.Domain/LeagueTracker.Domain.csproj" />
+    <Project Path="src/LeagueTracker.Infrastructure/LeagueTracker.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/LeagueTracker.Api.Tests/LeagueTracker.Api.Tests.csproj" />
+    <Project Path="tests/LeagueTracker.Application.Tests/LeagueTracker.Application.Tests.csproj" />
+  </Folder>
+</Solution>

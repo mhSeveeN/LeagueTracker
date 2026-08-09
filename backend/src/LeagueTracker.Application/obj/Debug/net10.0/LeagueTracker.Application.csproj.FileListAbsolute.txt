@@ -1,0 +1,16 @@
+D:\Code\LeagueTracker\backend\src\LeagueTracker.Application\bin\Debug\net10.0\LeagueTracker.Application.deps.json
+D:\Code\LeagueTracker\backend\src\LeagueTracker.Application\bin\Debug\net10.0\LeagueTracker.Application.dll
+D:\Code\LeagueTracker\backend\src\LeagueTracker.Application\bin\Debug\net10.0\LeagueTracker.Application.pdb
+D:\Code\LeagueTracker\backend\src\LeagueTracker.Application\bin\Debug\net10.0\LeagueTracker.Domain.dll
+D:\Code\LeagueTracker\backend\src\LeagueTracker.Application\bin\Debug\net10.0\LeagueTracker.Domain.pdb
+D:\Code\LeagueTracker\backend\src\LeagueTracker.Application\obj\Debug\net10.0\LeagueTracker.Application.csproj.AssemblyReference.cache
+D:\Code\LeagueTracker\backend\src\LeagueTracker.Application\obj\Debug\net10.0\LeagueTracker.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\Code\LeagueTracker\backend\src\LeagueTracker.Application\obj\Debug\net10.0\LeagueTracker.Application.AssemblyInfoInputs.cache
+D:\Code\LeagueTracker\backend\src\LeagueTracker.Application\obj\Debug\net10.0\LeagueTracker.Application.AssemblyInfo.cs
+D:\Code\LeagueTracker\backend\src\LeagueTracker.Application\obj\Debug\net10.0\LeagueTracker.Application.csproj.CoreCompileInputs.cache
+D:\Code\LeagueTracker\backend\src\LeagueTracker.Application\obj\Debug\net10.0\LeagueTracker.Application.sourcelink.json
+D:\Code\LeagueTracker\backend\src\LeagueTracker.Application\obj\Debug\net10.0\LeagueTr.BF5CAB1A.Up2Date
+D:\Code\LeagueTracker\backend\src\LeagueTracker.Application\obj\Debug\net10.0\LeagueTracker.Application.dll
+D:\Code\LeagueTracker\backend\src\LeagueTracker.Application\obj\Debug\net10.0\refint\LeagueTracker.Application.dll
+D:\Code\LeagueTracker\backend\src\LeagueTracker.Application\obj\Debug\net10.0\LeagueTracker.Application.pdb
+D:\Code\LeagueTracker\backend\src\LeagueTracker.Application\obj\Debug\net10.0\ref\LeagueTracker.Application.dll
