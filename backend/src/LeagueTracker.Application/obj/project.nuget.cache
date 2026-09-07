@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sp3JbuRELwM=",
+  "dgSpecHash": "zXofjufUr+w=",
   "success": true,
-  "projectFilePath": "D:\\Code\\LeagueTracker\\backend\\src\\LeagueTracker.Application\\LeagueTracker.Application.csproj",
+  "projectFilePath": "/home/seveen_pc/Code/LeagueTracker/backend/src/LeagueTracker.Application/LeagueTracker.Application.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
